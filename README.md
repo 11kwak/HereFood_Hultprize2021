@@ -1,11 +1,11 @@
 # HereFood_Hultprize2021
 
-- 진행과정 (2020.10 - 2021.04)
+### 진행과정 (2020.10 - 2021.04)
 
 Hult Prize On-Campus(in Korea) => SIO Trianning => Hult Prize Regional(in Manila)
 
 
-- Hult Prize Regional(in Manila) 지원 영상 중 일부
+### Hult Prize Regional(in Manila) 지원 영상 중 일부
 
 ![image](https://user-images.githubusercontent.com/87745990/202616209-ce3255f4-3a54-4332-bd5b-9c9154d4ee08.png)
 
